@@ -14,3 +14,14 @@ Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
 Beachtet, dass die Maps auf die Kampagne angepasst sind und gerade die Story-Inszenierung viel vom Charme ausmacht.
 
 Entscheidet euch einfach für eine Variante und schon kann es losgehen!
+
+# HINWEISE
+
+Hier ein paar Hinweise bezüglich des Gameplays:
+
+- Alle Missionen sind genau, wie bei SHKR, auf Sehr Schwer ohne Exploits usw. zu schaffen. Alle Missionen wurden ausgiebig auf Sehr Schwer getestet.
+- Es ist immer möglich die Mission ohne Abgrenzungen zu schaffen (Burgenbauen lohnt sich).
+- Exploits, Cheats und Bugabuse (Unendlich Stein, Wegweiser-Camping usw.) sind nicht erwünscht bzw. zu vermeiden!
+- Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
+- Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
+- Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
