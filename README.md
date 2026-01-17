@@ -1,5 +1,5 @@
 # SHW
-SHW ist ein Remaster der Wirtschaftskampagne von Stronghold 1, im Stil der beriets überarbeiteten Militärkampagne von SH1 (SHKR) und kann als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
+SHW ist ein Remaster der Wirtschaftskampagne von Stronghold 1, im Stil der bereits überarbeiteten Militärkampagne von SH1 (SHKR) und kann als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
 
 # INSTALLATION
 
@@ -25,3 +25,8 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 - Schilde auf Mauern sind nur legitim, falls sie zu Missionsbeginn bereits auf den Mauer, Türmen usw. platziert sind! Verwendet sie ansonsten bitte nicht in der Defensive.
 - Es empfiehlt sich immer die Karte genau vorher anzusehen, um beispielsweise alle Rohstoffquellen zu finden.
 - Umsetzen von Vorratslagern ist nicht nötig (auch nicht auf Sehr Schwer).
+
+### Selbstverständlich könnt ihr auch hier auf GitHub ein Issue bzgl. allerlei Themen erstellen!
+
+
+## Viel Vergnügen mit SHW wünscht euch Herzog Andrean | Karl!
